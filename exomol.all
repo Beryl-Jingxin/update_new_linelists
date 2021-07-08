@@ -1,6 +1,6 @@
 EXOMOL.master                                                                   # ID
-20200720                                                                        # Version number with format YYYYMMDD
- 129                                                                            # Number of molecules in the database
+20210707                                                                        # Version number with format YYYYMMDD
+ 220                                                                            # Number of molecules in the database
   11                                                                            # Number of molecule names listed
 Water                                                                           # Name of the molecule
 oxidane                                                                         # Name of the molecule

@@ -56,7 +56,7 @@ Source                                                                          
 Source of term value; M = MARVEL, P = MOLLIST, D = DUO                          # Description title 1
 EDuo                                                                            # Auxiliary title 2
 %16.6f                                                                          # Format title 2
-Energy from DUO spectroscopic model                                              # Description title 2
+Energy from DUO spectroscopic model                                             # Description title 2
 2285103                                                                         # Total number of transitions
 1                                                                               # No. of transition files
 60000.00                                                                        # Maximum wavenumber (in cm-1)

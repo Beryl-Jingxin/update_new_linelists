@@ -253,7 +253,7 @@ CoYuTe                                                                          
 QGZKDVFQNNGYKY-OUBTZVSYSA-N                                                     # Inchi key of isotopologue
 15N-1H3                                                                         # Iso-slug
 (15N)(1H)3                                                                      # IsoFormula
-BYTe                                                                         # Isotopologue dataset name
+BYTe-15                                                                         # Isotopologue dataset name
 20160726                                                                        # Version number with format YYYYMMDD
    6                                                                            # Number of molecule names listed
 Nitric acid                                                                     # Name of the molecule

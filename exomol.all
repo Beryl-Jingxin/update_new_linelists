@@ -1,6 +1,8 @@
 EXOMOL.master                                                                   # ID
 20210707                                                                        # Version number with format YYYYMMDD
- 220                                                                            # Number of molecules in the database
+  80                                                                            # Number of molecules in the database
+ 193                                                                            # Number of isotopologues in the database
+  84                                                                            # Number of datasets in the database
   11                                                                            # Number of molecule names listed
 Water                                                                           # Name of the molecule
 oxidane                                                                         # Name of the molecule

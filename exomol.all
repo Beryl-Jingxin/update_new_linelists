@@ -56,7 +56,7 @@ CO2                                                                             
 CURLTUGMZLYLDI-UHFFFAOYSA-N                                                     # Inchi key of isotopologue
 12C-16O2                                                                        # Iso-slug
 (12C)(16O)2                                                                     # IsoFormula
-Zak                                                                             # Isotopologue dataset name
+Zak-16-12-16                                                                    # Isotopologue dataset name
 20180218                                                                        # Version number with format YYYYMMDD
 CURLTUGMZLYLDI-UHFFFAOYSA-N                                                     # Inchi key of isotopologue
 12C-16O2                                                                        # Iso-slug
@@ -546,7 +546,7 @@ BeH                                                                             
 AYBCUKQQDUJLQN-UHFFFAOYSA-N                                                     # Inchi key of isotopologue
 9Be-1H                                                                          # Iso-slug
 (9Be)(1H)                                                                       # IsoFormula
-Yadin                                                                           # Isotopologue dataset name
+Yadin-BeH                                                                       # Isotopologue dataset name
 20160726                                                                        # Version number with format YYYYMMDD
 AYBCUKQQDUJLQN-UHFFFAOYSA-N                                                     # Inchi key of isotopologue
 9Be-1H                                                                          # Iso-slug
@@ -682,7 +682,7 @@ EBJT                                                                            
 LIVNPJMFVYWSIS-UHFFFAOYSA-N                                                     # Inchi key of isotopologue
 28Si-16O                                                                        # Iso-slug
 (28Si)(16O)                                                                     # IsoFormula
-Kurucz                                                                          # Isotopologue dataset name
+Kurucz-SiO                                                                      # Isotopologue dataset name
 20200707                                                                        # Version number with format YYYYMMDD
 LIVNPJMFVYWSIS-OUBTZVSYSA-N                                                     # Inchi key of isotopologue
 28Si-17O                                                                        # Iso-slug
@@ -845,8 +845,23 @@ Diatomic carbon                                                                 
 Ethenediylidene                                                                 # Name of the molecule
 Dicarbon                                                                        # Name of the molecule
 C2                                                                              # Molecule chemical formula
-   3                                                                            # Number of isotopologues considered
-LBVWYGNGGJURHQ-OUBTZVSYSA-N                                                     # Inchi key of isotopologue
+   5                                                                            # Number of isotopologues considered
+LBVWYGNGGJURHQ-UHFFFAOYSA-N                                                     # Inchi key of isotopologue
+12C2                                                                            # Iso-slug
+(12C)2                                                                          # IsoFormula
+Yueqi                                                                           # Isotopologue dataset name
+20160726                                                                        # Version number with format YYYYMMDD
+LBVWYGNGGJURHQ-UHFFFAOYSA-N                                                     # Inchi key of isotopologue
+12C2                                                                            # Iso-slug
+(12C)2                                                                          # IsoFormula
+8states                                                                         # Isotopologue dataset name
+20180501                                                                        # Version number with format YYYYMMDD
+LBVWYGNGGJURHQ-UHFFFAOYSA-N                                                     # Inchi key of isotopologue
+12C2                                                                            # Iso-slug
+(12C)2                                                                          # IsoFormula
+MoLLIST-C2                                                                      # Isotopologue dataset name
+20190503                                                                        # Version number with format YYYYMMDD
+LBVWYGNGGJURHQ-VQEHIDDOSA-N                                                     # Inchi key of isotopologue
 12C-13C                                                                         # Iso-slug
 (12C)(13C)                                                                      # IsoFormula
 8states                                                                         # Isotopologue dataset name
@@ -854,11 +869,6 @@ LBVWYGNGGJURHQ-OUBTZVSYSA-N                                                     
 LBVWYGNGGJURHQ-ZDOIIHCHSA-N                                                     # Inchi key of isotopologue
 13C2                                                                            # Iso-slug
 (13C)2                                                                          # IsoFormula
-8states                                                                         # Isotopologue dataset name
-20180501                                                                        # Version number with format YYYYMMDD
-LBVWYGNGGJURHQ-UHFFFAOYSA-N                                                     # Inchi key of isotopologue
-12C2                                                                            # Iso-slug
-(12C)2                                                                          # IsoFormula
 8states                                                                         # Isotopologue dataset name
 20180501                                                                        # Version number with format YYYYMMDD
    2                                                                            # Number of molecule names listed
@@ -869,7 +879,7 @@ CN                                                                              
 JEVCWSUVFOYBFI-UHFFFAOYSA-N                                                     # Inchi key of isotopologue
 12C-14N                                                                         # Iso-slug
 (12C)(14N)                                                                      # IsoFormula
-MoLLIST                                                                         # Isotopologue dataset name
+MoLLIST-CN                                                                      # Isotopologue dataset name
 20160726                                                                        # Version number with format YYYYMMDD
 JEVCWSUVFOYBFI-UHFFFAOYSA-N                                                     # Inchi key of isotopologue
 12C-14N                                                                         # Iso-slug
@@ -1002,7 +1012,7 @@ SH                                                                              
 PXQLVRUNWNTZOS-UHFFFAOYSA-N                                                     # Inchi key of isotopologue
 32S-1H                                                                          # Iso-slug
 (32S)(1H)                                                                       # IsoFormula
-SNaSH                                                                           # Isotopologue dataset name
+SNaSH-SH                                                                        # Isotopologue dataset name
 20180101                                                                        # Version number with format YYYYMMDD
 PXQLVRUNWNTZOS-UHFFFAOYSA-N                                                     # Inchi key of isotopologue
 32S-1H                                                                          # Iso-slug
@@ -1012,7 +1022,7 @@ GYT                                                                             
 PXQLVRUNWNTZOS-OUBTZVSYSA-N                                                     # Inchi key of isotopologue
 33S-1H                                                                          # Iso-slug
 (33S)(1H)                                                                       # IsoFormula
-SNaSH                                                                           # Isotopologue dataset name
+SNaSH-SH                                                                        # Isotopologue dataset name
 20180101                                                                        # Version number with format YYYYMMDD
 PXQLVRUNWNTZOS-OUBTZVSYSA-N                                                     # Inchi key of isotopologue
 33S-1H                                                                          # Iso-slug
@@ -1022,7 +1032,7 @@ GYT                                                                             
 PXQLVRUNWNTZOS-NJFSPNSNSA-N                                                     # Inchi key of isotopologue
 34S-1H                                                                          # Iso-slug
 (34S)(1H)                                                                       # IsoFormula
-SNaSH                                                                           # Isotopologue dataset name
+SNaSH-SH                                                                        # Isotopologue dataset name
 20180101                                                                        # Version number with format YYYYMMDD
 PXQLVRUNWNTZOS-NJFSPNSNSA-N                                                     # Inchi key of isotopologue
 34S-1H                                                                          # Iso-slug
@@ -1032,7 +1042,7 @@ GYT                                                                             
 PXQLVRUNWNTZOS-RNFDNDRNSA-N                                                     # Inchi key of isotopologue
 36S-1H                                                                          # Iso-slug
 (36S)(1H)                                                                       # IsoFormula
-SNaSH                                                                           # Isotopologue dataset name
+SNaSH-SH                                                                        # Isotopologue dataset name
 20180101                                                                        # Version number with format YYYYMMDD
 PXQLVRUNWNTZOS-RNFDNDRNSA-N                                                     # Inchi key of isotopologue
 36S-1H                                                                          # Iso-slug
@@ -1042,7 +1052,7 @@ GYT                                                                             
 PXQLVRUNWNTZOS-MICDWDOJSA-N                                                     # Inchi key of isotopologue
 32S-2H                                                                          # Iso-slug
 (32S)(2H)                                                                       # IsoFormula
-SNaSH                                                                           # Isotopologue dataset name
+SNaSH-SH                                                                        # Isotopologue dataset name
 20180101                                                                        # Version number with format YYYYMMDD
 PXQLVRUNWNTZOS-MICDWDOJSA-N                                                     # Inchi key of isotopologue
 32S-2H                                                                          # Iso-slug

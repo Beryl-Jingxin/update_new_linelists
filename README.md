@@ -1,3 +1,7 @@
 # Update New Linelists
-Upload files to exoweb server
-Update  new line lists to ExoMol website
+
+
+Upload files to exoweb server.
+
+
+Update  a new line list to ExoMol website.
